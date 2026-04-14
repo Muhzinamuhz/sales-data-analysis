@@ -20,3 +20,9 @@ This project focuses on analyzing a retail dataset using Microsoft Excel.
 
 ## 🔹 File Included
 - Project Data Analytics.xlsx
+
+- ## 📸 Dashboard Preview
+
+
+<img width="1349" height="723" alt="Screenshot 2026-04-13 172720" src="https://github.com/user-attachments/assets/e90e4780-3ecf-4b8b-a3ce-adbfd08c48fa" />
+ 
